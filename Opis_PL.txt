@@ -1,0 +1,6 @@
+HybridAuth jest otwartą biblioteką PHP do uwierzytelniania za pośrednictwem usług społecznościowych i dostawców Open  ID. 
+
+Usługi społeczne obsługiwane przez bibliotekę to OpenID, Facebook, LinkedIn, Google, Twitter, Windows Live, Foursquare, Vimeo, Yahoo, PayPal i inne. 
+
+HybridAuth można łatwo zintegrować ze stronami internetowymi. 
+Biblioteka pozwala również na interakcję poprzez API z innymi użytkownikami połączonymi w tej samej społeczności.
